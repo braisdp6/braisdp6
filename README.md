@@ -14,11 +14,17 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
   JPA, 
   Hibernate 🚀 Coming soon...
 
+- **JavaScript**:
+  🚀 Coming soon...
+
 - **SQL**: 
   MYSQL
 
 - **C#**: 
   Unity 🚀 Coming soon...
+  
+- **HTML, CSS**: 
+  Wordpress
   
 <!--
 ## Ejemplos de Código
