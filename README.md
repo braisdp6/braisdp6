@@ -9,9 +9,9 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
 ## What im currently /done working on 🌅
 
 - **Java**: 
-  POO
-  SOLID principles
-  JPA 
+  POO, 
+  SOLID principles, 
+  JPA, 
   Hibernate 🚀 Coming soon...
 
 - **SQL**: 
