@@ -6,7 +6,7 @@ Welcome to my Github profile.
 Actually studying DAW, improving 1% every day 🧙‍♂️.
 
 
-## What im currently /done working on 🌅
+## What im currently learning 🌅
 
 - **Java**: 
   POO, 
@@ -27,24 +27,18 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
   Wordpress
   
 <!--
-## Ejemplos de Código
-
+## Where i am currently working at /as
 - **[Carpeta 1](enlace-a-la-carpeta-1)**: Contiene ejemplos de código relacionados con tema 1.
-- **[Carpeta 2](enlace-a-la-carpeta-2)**: Incluye ejemplos de código sobre tema 2.
-- **[Carpeta 3](enlace-a-la-carpeta-3)**: Ejemplos prácticos y demostraciones relacionadas con tema 3.
 
-## Contribuciones
 
-Siéntete libre de explorar los proyectos y ejemplos de código. Si encuentras algo interesante o útil, estaría encantado de recibir tus comentarios, sugerencias o contribuciones. Puedes abrir un "issue" o enviar una solicitud de extracción ("pull request") para colaborar en el desarrollo de un proyecto o mejorar algún código existente.
+## What i am currently /done working on
+Hacer una lista de proyectos en los que participé.
 
-## Contacto
-
-Si deseas comunicarte conmigo o tener más información sobre algún proyecto en particular, no dudes en contactarme. Puedes encontrarme en los siguientes enlaces:
-
+## Where to find me
 - **Email**: tu-email@example.com
 - **LinkedIn**: [Tu perfil de LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
 
-¡Gracias por visitar mi perfil de GitHub y espero que encuentres algo interesante aquí! 😄
+¡Thanks for visiting my GitHub profile and I hope you find something interesting here.! 😄
 -->
 
 En construcción...
