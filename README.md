@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Perfil de GitHub
 
-¡Hi ! 
+¡Hi 🙂! 
 
 Bienvenido a mi perfil de GitHub. 
 Actualmente estudiando el CS DAW, mejorando un 1% cada día 🧙‍♂️.
