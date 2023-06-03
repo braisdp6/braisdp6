@@ -11,6 +11,7 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
 - **Java**: 
   POO, 
   SOLID principles, 
+  JDBC, 
   JPA, 
   Hibernate 🚀 Coming soon...
 
