@@ -19,7 +19,7 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
   🚀 Coming soon...
 
 - **SQL**: 
-  MYSQL
+  MYSQL, phpMyAdmin
 
 - **C#**: 
   Unity 🚀 Coming soon...
