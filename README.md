@@ -27,9 +27,8 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
 - **HTML, CSS**: 
   Wordpress, Moodle
   
-<!--
+<!-- Pendiente de implementar en un futuro :)
 ## Where i am currently working at /as
-- **[Carpeta 1](enlace-a-la-carpeta-1)**: Contiene ejemplos de código relacionados con tema 1.
 
 
 ## What i am currently /done working on
@@ -42,5 +41,5 @@ Hacer una lista de proyectos en los que participé.
 ¡Thanks for visiting my GitHub profile and I hope you find something interesting here.! 😄
 -->
 
-En construcción...
+En desarrollo...
 
