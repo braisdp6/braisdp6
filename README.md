@@ -25,7 +25,7 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
   Unity 🚀 Coming soon...
   
 - **HTML, CSS**: 
-  Wordpress
+  Wordpress, Moodle
   
 <!--
 ## Where i am currently working at /as
