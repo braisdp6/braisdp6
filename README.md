@@ -13,16 +13,16 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
   SOLID principles, 
   JDBC, 
   JPA, 
-  Hibernate 🚀 Coming soon...
+  Hibernate (🚀 Coming soon...)
 
 - **JavaScript**:
-  🚀 Coming soon...
+  (🚀 Coming soon...)
 
 - **SQL**: 
   MYSQL<!--, phpMyAdmin-->
 
 - **C#**: 
-  Unity 🚀 Coming soon...
+  Unity (🚀 Coming soon...)
   
 - **HTML, CSS**: 
   Wordpress, Moodle
