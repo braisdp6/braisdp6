@@ -13,7 +13,7 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
   SOLID principles, 
   JDBC, 
   JPA, 
-  Hibernate (🚀 Coming soon...)
+  Hibernate
 
 - **JavaScript**:
   (🚀 Coming soon...)
