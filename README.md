@@ -16,7 +16,7 @@ Actually studying DAW, improving 1% every day 🧙‍♂️.
   Hibernate
 
 - **JavaScript**:
-  (🚀 Coming soon...)
+  (🚀 Coming soon...)<!--nodeJS, jQuery-->
 
 - **SQL**: 
   MYSQL<!--, phpMyAdmin-->
