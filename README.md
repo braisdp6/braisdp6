@@ -10,27 +10,23 @@
 
 ## <picture><img src = "https://github.com/braisdp6/braisdp6/blob/main/images/mage2.gif" width = 50px></picture> My Skills / What Im currently learning
 <picture><img align="right" src="https://github.com/braisdp6/braisdp6/blob/main/images/book.gif" width = 250px></picture>
+- **Dart**:
+  Flutter
+
 - **Java**:
-  SOLID principles, 
+  Android Studio,
+  Hibernate,
   JDBC, 
   JPA, 
-  Hibernate,
-  Android Studio,
   Spring & Spring Boot (🚀coming soon...)
 
 - **Python**: 
-  JupyterLab,
-  Qt Designer
+  Qt Designer,
+  JupyterLab
 
 - **SQL**: 
   MYSQL,
-  PostgreSQL,
-  Phpmyadmin,
-  SQLite,
-  SQLiteStudio
-
-- **XML**:
-  eXist-db
+  SQLite
 
 - **C#**: 
   Unity (🚀coming soon...)
