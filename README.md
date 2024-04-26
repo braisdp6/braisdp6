@@ -12,6 +12,10 @@
 <picture><img align="right" src="https://github.com/braisdp6/braisdp6/blob/main/images/book.gif" width = 250px></picture>
 - **Dart**:
   Flutter
+  
+- **PHP**:
+  Laravel,
+  Blade
 
 - **Java**:
   Android Studio,
@@ -35,7 +39,7 @@
   Odoo
 
 - **Other tools**:
-  Docker, Azure, XAMPP 
+  Docker, Azure, XAMPP, Insomnia, Fork...
 
 <!--p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=braisdp6&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -54,4 +58,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
  ------
- Last Edited on: 17/03/2024
+ Last Edited on: 26/04/2024
