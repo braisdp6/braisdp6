@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <h1 align="center">Hi , I'm Brais<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">--></h1>
 <br/>
-<p><b>Welcome to my Github profile.</b></p>
-<p><b>Currently studying DAM, I started studying programming since it gives free rein to my creative capacity and I am also constantly learning new things. The two things I like most in my life 💜.</b></p>
+<!--<p><b>Welcome to my Github profile.</b></p>-->
+<!--<p><b>Currently studying DAM, I started studying programming since it gives free rein to my creative capacity and I am also constantly learning new things. The two things I like most in my life 💜.</b></p>-->
 
 <p align="center">
   <img src="https://github.com/braisdp6/braisdp6/raw/main/images/backg1.2.gif" alt="GIF" width="100%">
