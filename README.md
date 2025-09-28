@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <h1 align="center">Hi , I'm Brais<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">--></h1>
 <br/>
 <!--<p><b>Welcome to my Github profile.</b></p>-->
@@ -54,8 +53,6 @@
   <a href = "mailto:braisdominguezpuga6@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--a href="https://www.codingame.com/profile/7c9a134f07d2683bbc9313def16427390872106" target="_blank"><img src="https://img.shields.io/badge/-codingame-yellow?style=for-the-badge" style="border-radius: 30px" target="_blank"></a--> 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
  ------
  Last Edited on: 26/04/2024
