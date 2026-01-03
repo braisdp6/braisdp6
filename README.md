@@ -15,13 +15,14 @@
 - **PHP**:
   Laravel,
   Blade
-
+<!--
 - **Java**:
   Android Studio,
   Hibernate,
   JDBC, 
   JPA, 
   Spring & Spring Boot (🚀coming soon...)
+-->
 
 - **Python**: 
   Qt Designer,
@@ -31,10 +32,10 @@
   MYSQL,
   SQLite
 
-- **C#**: 
-  Unity (🚀coming soon...)
+- **JS**: 
+  React (🚀coming soon...)
   
-- **ERPs**: 
+- **ERPs**:
   Odoo
 
 - **Other tools**:
