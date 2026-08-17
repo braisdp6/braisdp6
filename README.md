@@ -17,14 +17,13 @@ Account not in use; for contact purposes only.
 - **PHP**:
   Laravel,
   Blade
-<!--
+  
 - **Java**:
   Android Studio,
   Hibernate,
   JDBC, 
   JPA, 
   Spring & Spring Boot (🚀coming soon...)
--->
 
 - **Python**: 
   Qt Designer,
