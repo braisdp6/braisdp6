@@ -2,7 +2,9 @@
 <br/>
 <!--<p><b>Welcome to my Github profile.</b></p>-->
 <!--<p><b>Currently studying DAM, I started studying programming since it gives free rein to my creative capacity and I am also constantly learning new things. The two things I like most in my life 💜.</b></p>-->
+Account not in use; for contact purposes only.
 
+<!--<p>
 <p align="center">
   <img src="https://github.com/braisdp6/braisdp6/raw/main/images/backg1.2.gif" alt="GIF" width="100%">
 </p>
@@ -51,5 +53,6 @@
   <!--a href="https://www.codingame.com/profile/7c9a134f07d2683bbc9313def16427390872106" target="_blank"><img src="https://img.shields.io/badge/-codingame-yellow?style=for-the-badge" style="border-radius: 30px" target="_blank"></a--> 
 </div>
 
+</p>-->
  ------
  Last Edited on: 26/04/2024
